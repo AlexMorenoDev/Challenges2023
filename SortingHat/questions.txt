@@ -1,0 +1,29 @@
+¿Cual de los siguientes adjetivos te representa menos?
+1. Ordinario|Slytherin
+2. Ignorante|Ravenclaw
+3. Cobarde|Gryffindor
+4. Egoista|Hufflepuff
+
+Después de tu muerte ¿qué es lo que más te gustaría que la gente hiciera cuando escuchase tu nombre?
+1. Te extraña, pero sonríe|Hufflepuff
+2. Pide mas historias sobre tus aventuras|Gryffindor
+3. Piensa con admiración tus logros|Slytherin
+4. No me importa lo que la gente piense de mí después de mi muerte, es lo que piensan de mi mientras estoy vivo lo que cuenta|Ravenclaw
+
+Dada la opción, preferirías inventar una poción que garantizara:
+1. Gloria|Gryffindor
+2. Sabiduría|Ravenclaw
+3. Amor|Hufflepuff
+4. Poder|Slytherin
+
+¿Cómo te gustaría ser conocido en la historia?
+1. El sabio|Ravenclaw
+2. El bueno|Hufflepuff
+3. El gran|Slytherin
+4. El audaz|Gryffindor
+
+Entras en un jardín encantado. ¿Qué sería lo primero que te gustaría investigar?
+1. El árbol de hojas de plata con manzanas doradas|Slytherin
+2. Las setas rojas gordas que parecen estar hablando entre sí|Hufflepuff
+3. El estanque burbujeante en cuyas profundidades se arremolina algo luminoso|Gryffindor
+4. La estatua del viejo mago con un extraño centelleo en los ojos|Ravenclaw
