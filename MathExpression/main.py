@@ -26,6 +26,7 @@ def is_negative(val):
 
 
 # 'expr': string
+# 'valid_op': set containing valid operations
 def is_math_expr(expr, valid_op):
     if len(expr) == 0:
         return "ERROR: Entered expression cannot be empty!"
@@ -43,7 +44,7 @@ def is_math_expr(expr, valid_op):
         else:
             return False
         
-        if (sign_count != num_count) and (sign_count != (num_count-1)) :
+        if (sign_count != num_count) and (sign_count != (num_count-1)):
             return False
     
         count += 1
